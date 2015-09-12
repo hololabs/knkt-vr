@@ -1,0 +1,47 @@
+# temporary Unity files to ignore
+/Library/
+/Temp/
+
+# XCode stuff:
+/XCode/
+
+# MonoDevelop/Visual Studio-generated
+*.sln
+*.sln.meta
+*.suo
+*.pidb
+*.pdb
+*.unityproj
+*.userprefs
+*.userprefs.meta
+*.csproj
+*.booproj
+
+obj/
+_ReSharper*/
+*.DotSettings.User
+
+
+# System-generated files
+.DS_Store*
+ehthumbs.db
+[Tt]humbs.db
+
+# Sublime/Ctags-generated
+*.sublime-workspace
+*.sublime-project
+.tags
+.tags_sorted_by_file
+
+
+# User-generated directories
+
+/[Bb]in/
+/[Rr]elease/
+/WorkingFiles/
+
+
+# Additional ignores
+
+UnityVS/
+UnityVS.meta
